@@ -3,6 +3,8 @@
 This project, Student Record Management System, is implemented using a Single Linked List data structure. It is designed to track, store, and organize student records efficiently. The system supports complete data management activities, including CRUD operations (Create, Read, Update, Delete) and additional functionalities such as Sorting, Saving to a file, and more.
 # Main Menu
 An executable file named student is created from multiple modules, such as stud_add.c, stud_del.c, stud_sort.c, stud_show.c, etc. When executed, it displays a menu-driven interface as shown below:
+![menu](https://github.com/user-attachments/assets/2d434b2b-a8a8-4973-bb09-e92121a87fa5)
+
 ## Features  
 
 ### 1. CRUD Operations  
@@ -39,4 +41,9 @@ An executable file named student is created from multiple modules, such as stud_
 - Ensures the accuracy and integrity of student information during input.  
 
 ---
+![add_begin](https://github.com/user-attachments/assets/45376cf3-963f-41b3-a2dc-64fb4357d992)
+![exit](https://github.com/user-attachments/assets/8b7335c6-7266-4dd0-86e7-ae362ec57d78)
+![database](https://github.com/user-attachments/assets/ef7bf65a-45b6-4101-a06a-689bbaa19c22)
+![sort](https://github.com/user-attachments/assets/f43fa948-c85b-4006-9a8a-0e6e4d964372)
+![modify](https://github.com/user-attachments/assets/dfc19048-77c5-4e3c-84d8-af8b48e81ac1)
 
